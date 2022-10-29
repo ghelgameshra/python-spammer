@@ -41,6 +41,6 @@
 
 
 # Making custom .txt file for spammer with crunch
-1.  crunch 4 4 abcdef -o spammerFile.txt
+1.  Example: crunch 4 4 abcdef -o spammerFile.txt
     # for more information
     https://null-byte.wonderhowto.com/how-to/tutorial-create-wordlists-with-crunch-0165931/
